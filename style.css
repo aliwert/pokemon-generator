@@ -16,9 +16,10 @@ body {
   background-attachment: fixed;
 }
 .container {
+  width: 400px;
   width: 350px;
   position: absolute;
-  transform: translate(-35%, -40%);
+  transform: translate(-50%, -50%);
   top: 50%;
   left: 50%;
 }
@@ -27,7 +28,7 @@ body {
   width: 100%;
   padding: 30px 20px;
   box-shadow: 0 20px 30px #00000026;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 #pokemon-card img {
   display: block;
