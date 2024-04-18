@@ -7,7 +7,7 @@
 - The color of the card changes based on the Pokémon's type.
 - Provides a visually appealing experience with a moving background image.
 
-## Technologies Used
+## 🛠️Technologies Used
 - HTML
 - CSS
 - JavaScript
